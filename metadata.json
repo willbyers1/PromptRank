@@ -1,0 +1,5 @@
+{
+  "name": "PromptRank: AI Prompt Quality Scorer",
+  "description": "An advanced tool designed to analyze and score AI prompts based on prompt engineering best practices using a cyberpunk-themed dashboard.",
+  "requestFramePermissions": []
+}
