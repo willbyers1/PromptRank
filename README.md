@@ -13,8 +13,10 @@
 ---
 
 ## 📸 Project Preview
-<img width="1366" height="768" alt="App Interface" src="https://via.placeholder.com/1366x768/0f172a/a855f7?text=PromptRank+Cyberpunk+Interface" />
-<img width="1366" height="768" alt="Score Analysis" src="https://via.placeholder.com/1366x768/0f172a/22c55e?text=Score+Analysis+Dashboard" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8348d46a-b285-4bac-a7d7-e215521b2ebd" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d184fed4-71bd-4e20-b536-15b392e3a246" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b7cb22a3-f6c9-442e-b29a-3bc1310180b2" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5f8e2f41-0533-4740-b27c-058e26b08f8d" />
 
 ## 📖 Overview
 PromptRank is a serverless educational tool that analyzes and grades the quality of text prompts for LLMs. Built with a stunning **Cyberpunk/Dark Mode** aesthetic, it utilizes advanced **Regular Expressions (Regex)** to evaluate inputs based on five critical dimensions: *Length, Persona, Output Clarity, Chain of Thought, and Few-Shot examples.*
