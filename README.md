@@ -19,6 +19,7 @@
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5f8e2f41-0533-4740-b27c-058e26b08f8d" />
 
 ## 📖 Overview
+
 PromptRank is a serverless educational tool that analyzes and grades the quality of text prompts for LLMs. Built with a stunning **Cyberpunk/Dark Mode** aesthetic, it utilizes advanced **Regular Expressions (Regex)** to evaluate inputs based on five critical dimensions: *Length, Persona, Output Clarity, Chain of Thought, and Few-Shot examples.*
 
 The application features a **"Bring Your Own Key" (BYOK)** architecture simulation to mimic real-world SaaS security environments while keeping all logic strictly client-side.
