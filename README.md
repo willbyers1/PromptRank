@@ -35,6 +35,7 @@ The application features a **"Bring Your Own Key" (BYOK)** architecture simulati
 
 ## 🛠️ Tech Stack
 
+
 * **Core Framework:** Vue.js 3 (via CDN)
 * **Styling:** Tailwind CSS (via CDN)
 * **Logic:** Pure JavaScript (ES6+) & Regex
